@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Google-Calendar/static/css/main.deefdadd.css",
+    "main.js": "/Google-Calendar/static/js/main.200f4bc5.js",
+    "index.html": "/Google-Calendar/index.html",
+    "main.deefdadd.css.map": "/Google-Calendar/static/css/main.deefdadd.css.map",
+    "main.200f4bc5.js.map": "/Google-Calendar/static/js/main.200f4bc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deefdadd.css",
+    "static/js/main.200f4bc5.js"
+  ]
+}
